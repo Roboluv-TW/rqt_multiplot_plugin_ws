@@ -5,7 +5,7 @@ Original ROS package from  ETH zurich Autonomous Systems Lab(http://www.asl.ethz
 
 https://github.com/ethz-asl/rqt_multiplot_plugin
 
-Visualize MPU6050 IMU sensor value from arduino mega
+###Visualize MPU6050 IMU sensor value from arduino mega
 
 video:
 https://www.youtube.com/watch?v=4hC1XsBPqeQ
