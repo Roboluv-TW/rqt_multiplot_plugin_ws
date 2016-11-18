@@ -22,7 +22,8 @@ by tutorial. https://hackmd.io/s/SJeUHP3bg
 
 
 `git clone https://github.com/Roboluv-TW/rqt_multiplot_plugin_ws.git`
-It is a ROS catkin_ws
+
+It is a ROS catkin workspace.
 
 `cd rqt_multiplot_plugin_ws`
 
