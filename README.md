@@ -30,10 +30,10 @@ It is a ROS catkin_ws
 
 open 2 terminals 
 
-Terminal1  IMU send out topic (roscore and demo.launch)
+####Terminal1  IMU send out topic (roscore and demo.launch)
 `roslaunch mpu6050_serial_to_imu demo.launch`
 
-terminal2  rqt_multiplot_plugin
+####Terminal2  rqt_multiplot_plugin
 `rosrun rqt_multiplot rqt_multiplot`
 
 Have fun!
