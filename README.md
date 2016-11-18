@@ -14,7 +14,7 @@ ubuntu14.04 ROS indigo on Intel x86
 Tutorial:
 https://hackmd.io/s/SJeUHP3bg
 
-Usage
+###Usage
 Download arduino MPU6050.ino to your mega or uno 
 by tutorial. https://hackmd.io/s/SJeUHP3bg
 
@@ -29,6 +29,7 @@ It is a ROS catkin_ws
 `source environment.sh`
 
 open 2 terminals 
+
 Terminal1  IMU send out topic (roscore and demo.launch)
 `roslaunch mpu6050_serial_to_imu demo.launch`
 
